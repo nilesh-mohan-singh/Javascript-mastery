@@ -77,7 +77,7 @@ dog.bark();
 
 
 // Constructor Functions
-functionPerson (name, age) {
+function Person (name, age) {
     this.name = name,
     this.age = age;
 };
