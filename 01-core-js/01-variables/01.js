@@ -1,10 +1,10 @@
 // Variables are containers for data
 // Variable Declaration using Keywords
 // let, const, var
-// let and const has block scope where has var has the global scope
-// using let and var, we can redeclare variables but not the same with const
+// let and const has block scope whereas var has the global scope
+// using let and var, we can redeclare variables but not the same with const keyword
 // variable rules 
-// 1) case sensitive & only letter, underscore and $ allowed as 1st character
+// 1) case sensitive & only letter, $ and _ allowed as 1st character
 // 2) reserved keywords can't be declared as variable
 // Naming Convention - prefered camelCase
 
