@@ -52,12 +52,14 @@ for (let city of cities){
 
 // Sum of array
 let allnumbers = [10, 20, 30, 40];
+let sum = 0;
 for (let number of allnumbers ) {
-    console.log(number);
+    sum += number;
+    console.log(sum);
 }
 
 
-// Find largest numberl
+// Find largest number
 let listOfnumbers = [4, 9, 2, 15, 6]
 
 
